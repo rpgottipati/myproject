@@ -1,3 +1,3 @@
 # windstream-apis
 
-Windstream team can write APIs here to access neo4j data - by Ram Gottipati
+Windstream team can write APIs here to access neo4j data - by Ram Gotti
